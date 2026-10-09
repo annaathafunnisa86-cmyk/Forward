@@ -12,11 +12,11 @@ html::before {
   padding: 4px 8px;
   border-radius: 4px;
 }
-    h1{text-align:center;color:maroon;font-fomily:times new roman;font-weight:bold
+    h1{text-align:center;color:royalblue;font-fomily:times new roman;font-weight:bold
       }
 p {font-size:15;color:white 
   }
-body {background-color: pink;border:5px solid maroon;border-radius:10px
+body {background-color: cornflowerblue;border:5px solid maroon;border-radius:10px
      }
 ul {list-style-type:none;
    }
